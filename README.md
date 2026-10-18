@@ -1,5 +1,10 @@
 # RomsLibrary — App para consolas Linux, Steam Deck y Windows
 
+> **Este repositorio se ha fusionado en [IvanFreireDacoba/RomsLibrary](https://github.com/IvanFreireDacoba/RomsLibrary)**
+> (carpeta `cliente/`, con todo su historial). Allí están el servicio, la app Android, el aplicativo
+> para Linux, Steam Deck y Windows, y la versión para Wii, y todas las descargas en
+> [Releases](https://github.com/IvanFreireDacoba/RomsLibrary/releases). Este repositorio queda archivado.
+
 La misma app que [RomsLibrary-App](https://github.com/IvanFreireDacoba/RomsLibrary-App)
 (Android), para el resto de sistemas: consolas Linux con PortMaster (muOS,
 Knulli, ROCKNIX…), Steam Deck, PC Linux y Windows (también la ROG Xbox Ally).
